@@ -5,6 +5,7 @@
 
 //Fonte
 #include "dogica.h"
+// #include "pixeled.h"
 
 int main(){
     char frase[512];
