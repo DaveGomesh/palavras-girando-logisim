@@ -1,10 +1,16 @@
 # Palavras Girando no Logisim
 
-Um efeito de Giro com qualquer frase no Logim.
+## Sobre o Projeto
+
+- Aluno: **David Gomesh**
+- Professor: **Santiago Sinezio**
+- Curso: **Sistemas de Informação**
+- Disciplina: **Organização e Arquitetura de Computadores**
+- Instituição: **IFMA - Monte Castelo**
 
 ## Exemplo de frase
 
-| <img src="media/nome-girando.gif" width="500px" title="Nome girando na Matriz de LED" alt="Nome girando na Matriz de LED"> |
+| <img src="media/nome-girando.gif" width="500" title="Nome girando na Matriz de LED" alt="Nome girando na Matriz de LED"> |
 | - |
 | *Nome girando na Matriz de LED* |
 
@@ -18,7 +24,7 @@ Também é possível criar novos formatos usando a planilha (criada no Excel) na
 
 Basta desenhar o formato usando o caractere **1**, simulando um código binário. Após desenhar, clique no botão *"Gerar Valores Hexadecimais"*.
 
-| <img src="media/gerador-hexadecimal-10x10.png" width="500px" title="Gerador de novos formatos" alt="Gerador de novos formatos"> |
+| <img src="media/gerador-hexadecimal-10x10.png" width="500" title="Gerador de novos formatos" alt="Gerador de novos formatos"> |
 | - |
 | *Gerador de novos formatos* |
 
